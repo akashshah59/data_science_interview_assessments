@@ -1,3 +1,5 @@
+Notebook -> Company interview -> Problem solved.  
+
 credit_card.ipynb -> <u> Capital One </u> -> Imbalanced classification <br>
 aws_model -> <u> Prosimio.io </u> -> Time series regression and outlier analysis <br>
 neustar_fraud -> <u> Neustar </u> -> Imbalanced classification <br>
